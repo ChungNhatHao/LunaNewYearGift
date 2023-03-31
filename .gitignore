@@ -1,0 +1,6 @@
+[Bb]in/
+[Oo]bj/
+*.vs/
+*.DS_Store
+Logs/
+appsettings.json
