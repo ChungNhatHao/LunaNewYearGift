@@ -1,0 +1,12 @@
+E:\Database\Source\LunaNewYearGift\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Database\Source\LunaNewYearGift\Domain\bin\Debug\net6.0\Domain.dll
+E:\Database\Source\LunaNewYearGift\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.dll
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Database\Source\LunaNewYearGift\Domain\obj\Debug\net6.0\ref\Domain.dll
